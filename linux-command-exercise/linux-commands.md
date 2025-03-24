@@ -11,6 +11,10 @@
 	```bash 
 	
 	ln -s [target_file] [link_name]
+ 
+ ### example:
+	
+	![Description](images/ln_command.png)
 
  
  ## 2. `less` - Helps to easily move down a large file using the enter key.
