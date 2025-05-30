@@ -1,6 +1,6 @@
 #!/bin/bash
 
-filename="conditionals.sh"
+filename="countfile.sh"
 
 if [ -f  $filename ]; then
 	echo "This file exists"
